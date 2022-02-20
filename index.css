@@ -1,0 +1,129 @@
+body{
+    margin: 0px;
+    background-color: #2121f7;
+    border: 2px solid black;
+    text-align: center;
+}
+
+.body{
+    background-color: hotpink;
+    margin: 0px 20px 0px 20px;
+    height: 1530px;
+}
+.wrapper{
+    background-color: #39f336;
+    border: 2px solid black;
+    text-align: center;
+    margin: 4vh;
+    height: 1290px;
+}
+.container1{
+    background-color:pink;
+    border: 2px solid black;
+    text-align: center;
+    margin: 4vh;
+    height: 1050px;
+}
+.header{
+    background-color: yellow;
+    border: 2px solid black;
+    text-align: center;
+    margin: 4vh;
+}
+.navigation{
+    background-color: palevioletred;
+    border: 2px solid black;
+    text-align: center;
+    margin: 4vh   
+}
+
+.main_container{
+                  background-color: rgb(74, 202, 241);
+                  border: 2px solid black;
+                  text-align: center;
+                  margin: 4vh;
+                 width: 60%px;
+                 height: 450px;
+    
+
+}
+.container2{
+    background-color: rgb(232, 236, 0);
+   
+    text-align: center;
+    margin: 4vh;
+    display: inline-block;
+    width:50% ;
+    height: 350px;
+    margin-left: 90px;
+}
+.content{
+    background-color: #F6EEEC;
+    border: 2px solid black;
+    text-align: center; 
+    margin: 4vh; 
+    padding-top: 1.5vh;
+    float: left;
+    height: 60px;
+    width: 160px;
+}
+.float-right{
+    background-color: #F6EEEC;
+    border: 2px solid black;
+    text-align: center;
+    padding-top: 1.5vh;
+    margin: 4vh; 
+    float: right;
+    height: 60px;
+    width: 170px;
+}
+.footer{
+    background-color: #EEFFED;
+    border: 2px solid black;
+    text-align: center;
+    margin: 4vh; 
+
+
+}
+
+.footer1{
+     
+    border: 2px solid black;
+    text-align: center;
+    margin: 4vh; 
+}
+h2{
+    border: 2px solid black;
+    display: inline-block;
+    background-color:#FEF102;
+    padding: 1vh 5vh 1vh 6vh;
+}
+#h2{
+    width: 34vh;
+}
+.contr{
+    display: block;
+}
+#heading1{
+    border: 2px solid black;
+    margin: 1vh 2vh 0vh 2vh;
+    background-color:#9BFF9A;
+    padding: 1vh 5vh 1vh 6vh;
+
+}
+
+#heading2{
+            display: inline-block; 
+            background-color: yellow;
+            width: 700px;
+            height: 50px;
+            border: 2px solid black;
+}
+
+#heading3{
+          display: inline-block;
+           background-color: yellow;
+           width: 1000px;
+           height: 50px;
+           border: 2px solid black;
+}
